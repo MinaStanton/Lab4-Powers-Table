@@ -1,0 +1,11 @@
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\bin\Debug\netcoreapp3.1\Lab4_PowersTable.exe
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\bin\Debug\netcoreapp3.1\Lab4_PowersTable.deps.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\bin\Debug\netcoreapp3.1\Lab4_PowersTable.runtimeconfig.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\bin\Debug\netcoreapp3.1\Lab4_PowersTable.runtimeconfig.dev.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\bin\Debug\netcoreapp3.1\Lab4_PowersTable.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\bin\Debug\netcoreapp3.1\Lab4_PowersTable.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\obj\Debug\netcoreapp3.1\Lab4_PowersTable.csprojAssemblyReference.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\obj\Debug\netcoreapp3.1\Lab4_PowersTable.AssemblyInfoInputs.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\obj\Debug\netcoreapp3.1\Lab4_PowersTable.AssemblyInfo.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\obj\Debug\netcoreapp3.1\Lab4_PowersTable.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab4_PowersTable\Lab4_PowersTable\obj\Debug\netcoreapp3.1\Lab4_PowersTable.pdb
